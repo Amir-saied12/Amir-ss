@@ -1,0 +1,22 @@
+/* btns */
+.bttn{
+    background: transparent linear-gradient(254deg, #0093DE 15%, #3C6FAE 100%, #EF0220 383% ) 0% 0% no-repeat padding-box;
+    box-shadow: 10px 10px 35px #0093DE80;
+    border-radius: 30px;
+    opacity: 1;
+    padding: 9px 20px;
+    border: 1px solid transparent;
+}
+.btttn{
+    background: transparent linear-gradient(254deg, #0093DE 15%, #3C6FAE 100%, #EF0220 383% ) 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+    padding: 9px 20px;
+    border: 1px solid transparent;
+}
+/*                              */
+.heading h2{
+    color: black;
+    font-size: 34px !important;
+    font-weight: 700;
+}
