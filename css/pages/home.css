@@ -1,0 +1,194 @@
+.sec-2{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 0px 90px 90px 0px;
+    opacity: 1;
+    width: 93%;
+}
+.sec-2 .row p{
+    text-align: left;
+    font: normal normal normal 18px/25px Gotham;
+    letter-spacing: 0px;
+    color: #4b4b4b;
+    opacity: 1;
+}
+.sec-2 .row h2{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 34px;
+}
+.sec-2 .prag p{
+    font-size: 13px;
+    margin: 10px 0;
+    font-weight: 500;
+    color: grey;
+    font-style: italic;
+}
+.llo{
+    background: transparent url(../../img/Line\ 4545.jpg) 0% 139% no-repeat padding-box;
+    border-radius: 15px;
+}
+.img123 img{
+    border-top-left-radius: 64px;
+    margin-inline-start: 37px;
+    border-top-right-radius: 64px;
+}
+/*                          */
+
+.sec-3{
+    background: #F0F6FF 0% 0% no-repeat padding-box;
+    padding: 70px 0;
+}
+.sec-3 :first-child h2{
+    font-size: 34px;
+    font-weight: 700;
+}
+.sec-3 :first-child p{
+    text-align: left;
+    font: normal normal 14px/21px Gotham;
+    letter-spacing: 0px;
+    font-weight: 600;
+    color: #2A2A2A;
+    opacity: 1;
+}
+.cards{
+    background: rgba(255, 255, 255, 0.409) url(../../img/Mask\ Group\ 2.svg) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    background-position: bottom;
+    border-radius: 45px 20px;
+    padding: 28px;
+}
+.cards i{
+    color: #0093DE;
+    font-size: 40px;
+}
+.cards .txt-crd h4{
+    text-align: left;
+    font: normal normal bold 18px/24px Gotham;
+    letter-spacing: 0px;
+    color: #0093DE;
+    opacity: 1;
+    margin: 10px 0;
+}
+.cards .txt-crd p{
+    text-align: left;
+    font: normal normal medium 14px/24px Gotham;
+    letter-spacing: 0px;
+    color: #2A2A2A;
+    opacity: 1;
+}
+/*                              */
+.sec-4{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    background-size: 81% 90%;
+}
+.bg-mid{
+    padding: 70px 0;
+    background: transparent url(../../img/shapes.svg) 0% 0% no-repeat padding-box;
+    background-size: 69%;
+    background-repeat: repeat;
+}
+.bg-mid .cardet .fn {
+    font-size: 45px;
+}
+.bg-mid p{
+    color: gray;
+    font-size: 17px;
+}
+.bg-mid h2{
+    font-size: 22px;
+    font-weight: 700;
+}
+.cardet{
+    background: transparent linear-gradient(304deg, #FFFFFF 0%, #EFFAFF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: -10px 10px 50px #0093DE1A;
+    border-radius: 50px 25px;
+}
+.cardet .btttn{
+    padding: 10px 33px;
+}
+/*                              */
+
+.sec-5{
+    position: relative;
+    padding: 70px;
+    background: #F0F6FF 0% 0% no-repeat padding-box;
+}
+.sec-5 .card{
+    background: transparent linear-gradient(334deg, #FFFFFF 0%, #EFFAFF 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 20px 50px #0093DE17;
+    border-radius: 25px;
+}
+.sec-5 .card .crd-txt h2{
+    text-align: left;
+    font: normal normal 23px/25px Gotham;
+    letter-spacing: 0px;
+    color: #2A2A2A;
+}
+.sec-5 .card .crd-txt span{
+    text-align: left;
+    font: normal normal 12px/24px Gotham;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+}
+.sec-5 .card .crd-txt p{
+    text-align: left;
+    font: normal normal 14px/15px Gotham;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+    opacity: 1;
+    }
+.sec-5 .card .crd-txt a{
+    text-align: left;
+    font: normal normal 14px/24px Gotham;
+    letter-spacing: 0px;
+    color: #027AB7;
+    opacity: 1;
+}
+.sec-5 .card .crd-txt li:nth-child(1){
+    text-align: left;
+    font: normal normal 12px/24px Gotham;
+    letter-spacing: 0px;
+    color: #A2A2A2;
+}
+.sec-5 .card .crd-txt li:nth-child(2){
+    text-align: left;
+    font: normal normal 12px/24px Gotham;
+    letter-spacing: 0px;
+    color: #2A2A2A;
+}
+.gfx h4{
+    text-align: left;
+    font: normal normal bold 12px/22px Gotham;
+    letter-spacing: 0px;
+    color: #000000DE;
+}
+.sec-5 form{
+    position: relative;
+}
+.sec-5 form input{
+    border: 1px solid transparent;
+    border-radius: 99px;
+    padding: 10px;
+    width: 85%;
+}
+.sec-5 form button{
+    position: absolute;
+    left: 50%;
+    bottom: 3px;
+    text-align: left;
+    font: normal normal normal 19px/20px Gotham;
+    letter-spacing: -0.47px;
+    color: #FFFFFF;
+}
+.grx{
+    background: #F0F6FF 0% 0% no-repeat padding-box;
+    box-shadow: 10px -10px 50px #0093DE17;
+}
+.bg-end{
+    position: absolute;
+    right: 19%;
+    bottom: -7%;
+    padding: 8px 103px;
+    background: #e6fff799 url(../../img/shapes.svg) 0% 0% no-repeat padding-box;
+}
