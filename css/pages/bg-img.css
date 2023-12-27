@@ -1,0 +1,37 @@
+.bg-img{
+    background: transparent url(../../img/\(lines\).svg) 100% 18% no-repeat padding-box;
+    mix-blend-mode: normal;
+}
+.bg-img h1{
+    text-align: left;
+    font: normal normal 900 59px/69px Gotham;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.m5tlef{
+    color: #0093DE;
+}
+.kelma1{
+    background-image: url(../../img/circle\ note.svg);
+    background-position: center;
+    background-size: 100%;
+}
+.kelma2{
+    background: transparent url(../../img/line.svg) 0% 0% no-repeat padding-box;
+    background-position: right;
+    background-size: 90%;
+    background-position-x: 22px;
+    background-position-y: -13px;
+}   
+.bg-img p{
+    text-align: left;
+    font: normal normal normal 18px/25px Gotham;
+    letter-spacing: 0px;
+    color: #6D6D6D;
+    padding: 20px 0;
+}
+.bg-img img{
+    background: transparent url(../../img/Group\ 162853.jpg) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    mix-blend-mode: darken;
+}
