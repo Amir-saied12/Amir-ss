@@ -1,0 +1,21 @@
+/*vendor*/
+@import url(./vendor/animate.css);
+@import url(./vendor/bootstrap.min.css);
+
+/*base*/
+@import url(./base/base.css);
+
+
+/*component*/
+@import url(./component/component.css);
+
+/*layout*/
+@import url(./layout/footer.css);
+
+/*responsive*/
+@import url(./responsive/responsive.css);
+
+/*pages*/
+@import url(./pages/bg-img.css);
+@import url(./pages/home.css);
+/*                                  */
